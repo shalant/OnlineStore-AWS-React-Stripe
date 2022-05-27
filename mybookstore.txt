@@ -1,0 +1,35 @@
+username of new IAM user: (amplify-uMibs) easy
+
+$ amplify init
+Note: It is recommended to run this command from the root of your app directory
+? Enter a name for the project (bookstorev2) mybookstore
+? Enter a name for the project mybookstore
+? Enter a name for the environment (dev) prod
+? Enter a name for the environment prod
+? Choose your default editor: (Use arrow keys)
+? Choose your default editor: Visual Studio Code
+? Choose the type of app that you're building (Use arrow keys)
+? Choose the type of app that you're building javascript
+Please tell us about your project
+? What javascript framework are you using (Use arrow keys)
+? What javascript framework are you using react
+? Source Directory Path:  (src)
+? Source Directory Path:  src
+? Distribution Directory Path: (build)
+? Distribution Directory Path: build
+? Build Command:  (npm.cmd run-script build) npm run-script build
+? Build Command:  npm run-script build
+? Start Command: (npm.cmd run-script start) npm run-script start
+? Start Command: npm run-script start
+Using default provider  awscloudformation
+
+For more information on AWS Profiles, see:
+https://docs.aws.amazon.com/cli/latest/userguide/cli-multiple-profiles.html
+
+? Do you want to use an AWS profile? (Y/n) y
+? Do you want to use an AWS profile? Yes
+? Please choose the profile you want to use (Use arrow keys)
+? Please choose the profile you want to use easy
+Adding backend environment prod to AWS Amplify Console app: d1va3z8bsyyzvq
+
+
